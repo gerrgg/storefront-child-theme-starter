@@ -17,11 +17,11 @@ Functions file setup for quick modifications
 ```
 <?php
 
-add_action("init", "test");
+add_action("wp_body_open", "test");
 
 function test()
 {
-    echo 'hello';
+  echo "hello";
 }
 
 ```

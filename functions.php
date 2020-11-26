@@ -1,6 +1,6 @@
 <?php
 
-add_action("init", "test");
+add_action("wp_body_open", "test");
 
 function test()
 {
