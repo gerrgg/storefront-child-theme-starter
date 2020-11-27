@@ -1,3 +1,4 @@
 // /src/frontend/front-index.js
+import hello from "./hello";
 
-console.log("hello from the front   ");
+hello();

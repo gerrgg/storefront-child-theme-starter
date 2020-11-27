@@ -12,6 +12,6 @@
   \**********************************/
 /*! unknown exports (runtime-defined) */
 /*! runtime requirements:  */
-eval("// /src/admin/admin-index.js\n\nconsole.log(\"hello from the back\");\n\n\n//# sourceURL=webpack://webpack-and-wordpress/./src/admin/admin-index.js?");
+eval("// /src/admin/admin-index.js\nconsole.log(\"hello from the back\");\n\n//# sourceURL=webpack://webpack-and-wordpress/./src/admin/admin-index.js?");
 /******/ })()
 ;
